@@ -9,7 +9,7 @@ DATA_URL = (
     "https://transfer.sh/pYabt/Motor_Vehicle_Collisions_-_Crashes.csv" #"/home/cicada/Downloads/rhyme/streamlit/Motor_Vehicle_Collisions_-_Crashes.csv
 )
 
-st.title("Motor Vehicle Collisions in New York City")
+st.title("Vehicle Collisions in New York City")
 st.subheader("This application is a Streamlit dashboard that can be used "
             "to analyze motor vehicle collisions in NYC 🗽💥🚗")
 st.markdown("by Bryan Tan Jun Wei")
