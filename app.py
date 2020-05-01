@@ -25,7 +25,7 @@ def load_data(nrows):
     #data = data[['date/time', 'latitude', 'longitude']]
     return data
 
-data = load_data(100000)
+data = load_data(10000)
 
 
 st.header("Where are the most people injured in NYC?")
