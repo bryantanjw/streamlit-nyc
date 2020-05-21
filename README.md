@@ -1,6 +1,6 @@
 # Motor Vehicle Collisions in New York City.
 
-### A Data Science dashboard webapp illustraing vehicle collisions in New York City.
+### A Data Science dashboard webapp depicting vehicle collisions in New York City.
 Built with a pure python script with Streamlit, and deployed using Heroku.
 
 The dataset was derived from the New York City Police Department, consisting of 1.67 million rows and 29 columns:
