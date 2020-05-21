@@ -10,5 +10,5 @@ The dashboard, amongst other features, showcases a plotly histogram for the brea
 
 It also has an interactive 3D map that displays the frequency of collisions during a given time of day; notice that most motor vehicle collisions happen at night. The map was plotted by utilising Uber's open source deck.gl library (pydeck).
 
-Click the link below to access the dashboard in your browser:
+Click the link below to access the dashboard in your browser:  
 https://lnkd.in/gch9Zqu
