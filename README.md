@@ -1,5 +1,7 @@
 # Motor Vehicle Collisions in New York City.
 
+![](https://i.ibb.co/mvyQ2vf/nyc.gif)
+
 ### A Data Science dashboard webapp depicting vehicle collisions in New York City.
 Built with a pure python script with Streamlit, and deployed using Heroku.
 
